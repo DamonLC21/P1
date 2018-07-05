@@ -36,14 +36,14 @@
   
 
   .jumbotron {
-    background:linear-gradient(rgba(167, 238, 183, 0.45),#ff0a0a63), url(Images/10.jpg);
+    background:linear-gradient(rgba(167, 238, 183, 0.45),#ff0a0a63), url(images/10.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     color:white !important;
   }
 
  #port {
-    background:linear-gradient(rgba(167, 238, 183, 0.45),#ff0a0a63), url(Images/13.jpg);
+    background:linear-gradient(rgba(167, 238, 183, 0.45),#ff0a0a63), url(images/13.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     color:white !important;
